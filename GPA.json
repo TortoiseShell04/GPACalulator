@@ -1,0 +1,16 @@
+{
+    "Grades":
+    [
+        {"Name":"A","Value":4},
+        {"Name":"A-","Value":3.666},
+        {"Name":"B+","Value":3.333},
+        {"Name":"B","Value":3},
+        {"Name":"B-","Value":2.666},
+        {"Name":"C+","Value":2.333},
+        {"Name":"C","Value":2},
+        {"Name":"C-","Value":1.666},
+        {"Name":"D+","Value":1.333},
+        {"Name":"D","Value":1},
+        {"Name":"F","Value":0}
+    ]
+}
